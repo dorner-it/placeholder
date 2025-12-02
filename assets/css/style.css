@@ -1,0 +1,23 @@
+body {
+        height:100%;
+        width: 100%;
+        background: #0946BD;
+        color: #323232;
+        font-family: "IBM Plex Sans";
+}
+
+a {
+        color: #0034CC;
+        text-decoration: none;
+}
+
+.center {
+        background: #FFFFFF;
+        border-radius: 1rem;
+        padding: 2rem;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+}
